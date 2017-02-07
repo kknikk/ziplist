@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6b237c4-7fca-4a08-8d4e-c678a373ec6b" name="Default" comment="" />
+    <list default="true" id="d6b237c4-7fca-4a08-8d4e-c678a373ec6b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ziplist.js" afterPath="$PROJECT_DIR$/ziplist.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,11 +31,9 @@
       <file leaf-file-name="ziplist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ziplist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#zipList#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -285,11 +285,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ziplist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#zipList#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
